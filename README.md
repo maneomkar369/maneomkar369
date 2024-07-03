@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maneomkar369
-- 👀 I’m interested in game development,AI development,pyton,etc.
+- 👀 I’m interested in Ethical Hacking,AI development,Pyton,etc.
 - 🌱 I’m currently learning in Artificial Intelligence and Machine learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
