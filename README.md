@@ -52,8 +52,8 @@ Currently participating in the **NASA Space Apps Challenge Noida 2025**, where I
 
 ## 📫 Connect With Me
 
-- 🌐 Website: [Coming Soon]
-- 📧 Email: [your@email.com]
+- 🌐 Website: [omkarmane.me]
+- 📧 Email: [omkarmane@dietms.org]
 - 🧠 GitHub: [@maneomkar369](https://github.com/maneomkar369)
 
 ---
